@@ -1,9 +1,12 @@
-# Welcome to Appalachian Growth Logging
+# Services
 
-This is a temporary website for Appalachian Growth Logging.
+* Timber harvest
+* [Prescribed burning](https://en.wikipedia.org/wiki/Controlled_burn)
+* View clearing
+* and more...
 
 # Point of Contact
 
-Reach out to Alan Gleske for questions.
+Reach out to Alan for questions.
 
-* Email: agloggingllc@gmail.com
+* <a href="mailto:agloggingllc@gmail.com>Email for questions and inquiries</a>.
