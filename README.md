@@ -1,6 +1,6 @@
-# Welcome to Appalacian Growth Logging
+# Welcome to Appalachian Growth Logging
 
-This is a temporary website for Appalacian Growth Logging.
+This is a temporary website for Appalachian Growth Logging.
 
 # Point of Contact
 
