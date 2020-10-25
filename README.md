@@ -9,4 +9,4 @@
 
 Reach out to Alan for questions.
 
-* <a href="mailto:agloggingllc@gmail.com>Email for questions and inquiries</a>.
+* <a href="mailto:agloggingllc@gmail.com">Email for questions and inquiries</a>.
